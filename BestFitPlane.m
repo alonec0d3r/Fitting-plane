@@ -1,7 +1,7 @@
 clear;
 clc;
 
-% Random Points generation
+% Random Points generation :: VAIA
 Def_matrix = readmatrix("Thermal_Deformation_Data.xls","Range","A2:E5401");
 
 M = 6;
