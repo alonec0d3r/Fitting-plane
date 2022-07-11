@@ -1,7 +1,7 @@
 # Fitting Plane
 IIST Summer Intern Project:
 
-Members:
+Members:  
 Subhash Kondepudi  
 Vinay B  
 Vaibhav Agrawal  
