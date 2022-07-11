@@ -41,7 +41,7 @@ for p = 1:P
     end
 end
 
-% Actual Algorithm for Best Fit Plane
+% Actual Algorithm for Best Fit Plane :: AS135
 
 Nx = (X + X_def)'; % All X coordinates x0, x1, ...
 Ny = (Y + Y_def)'; % All Y coordinates y0, y1, ...
