@@ -2,6 +2,6 @@
 IIST Summer Intern Project:
 
 Members:
-Subhash Kondepudi
-Vinay B
-Vaibhav Agrawal
+Subhash Kondepudi  
+Vinay B  
+Vaibhav Agrawal  
