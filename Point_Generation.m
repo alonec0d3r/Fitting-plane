@@ -40,3 +40,5 @@ for p = 1:P
         Z(p + (n-1)*P,1) = (p-0.5)*Grid_size;
     end
 end
+
+disp("Successfully generated points.")

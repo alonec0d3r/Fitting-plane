@@ -1,3 +1,5 @@
+clc;
+
 % Actual Algorithm for Best Fit Plane :: AS135
 
 Nx = (X + X_def)'; % All X coordinates x0, x1, ...
